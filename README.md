@@ -1,2 +1,2 @@
 # DC-Gans-on-MNIST-Digits-Dataset
-Build a DC-GAN model that is able to generate fake images of Hand-Written Digits from the given sample of Hand-Written digit images..
+Gans stands for Generative Adversarial Networks. It is a type of deep learning model that is composed of two neural networks: a generator and a discriminator. The generator creates new data samples, while the discriminator attempts to distinguish the generated samples from real samples. The two networks are trained simultaneously, with the generator trying to create samples that can fool the discriminator, and the discriminator tries to correctly identify the generated samples. GANs have been used for a variety of tasks, including image synthesis, text generation, and anomaly detection.
