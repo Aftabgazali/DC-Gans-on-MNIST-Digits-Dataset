@@ -1,4 +1,4 @@
-# DC-Gans-on-MNIST-Digits-Dataset
+# Task 6: DC-Gans-on-MNIST-Digits-Dataset
 # Problem Statement: To Implement a DC-GAN Model that is capable of generating fake images of Hand-Written Digits.
 
 ## 1. Introduction 
